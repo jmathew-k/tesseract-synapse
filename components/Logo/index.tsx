@@ -15,18 +15,18 @@ const Logo = ({ className }: LogoProps) => {
         >
             <Image
                 className="opacity-100 hidden dark:block md:!hidden"
-                src="/images/logo-light.svg"
+                src="/images/logo-dark-theme-v2.svg"
                 width={152}
                 height={48}
-                alt="Synapse"
+                alt="Tesseract"
                 priority
             />
             <Image
                 className="opacity-100 dark:hidden md:!hidden"
-                src="/images/logo-dark.svg"
+                src="/images/logo-light-theme-v2.svg"
                 width={152}
                 height={48}
-                alt="Synapse"
+                alt="Tesseract"
                 priority
             />
             <Image
@@ -34,7 +34,7 @@ const Logo = ({ className }: LogoProps) => {
                 src="/images/logo-without-text.svg"
                 width={32}
                 height={32}
-                alt="Synapse"
+                alt="Tesseract"
                 priority
             />
         </Link>

@@ -44,8 +44,8 @@ const NewChat = ({}: NewChatProps) => {
                         Unlock the power of AI
                     </div>
                     <div className="text-body-1 text-n-4">
-                        Meet the synapse of our ai chat app revolutionizing
-                        conversations
+                        Meet Tesseract, next-gen conversational interface revolutionizing
+                        analytics
                     </div>
                 </div>
                 <div className="flex justify-between items-center mb-3">

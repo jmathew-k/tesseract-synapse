@@ -25,8 +25,8 @@ const sourceCodePro = Source_Code_Pro({
 });
 
 export const metadata = {
-    title: "Synapse",
-    description: "Synapse - AI UI Kit",
+    title: "Tesseract",
+    description: "Tesseract - LLMs for Analytics",
     icons: {
         icon: "./favicon.ico",
     },
@@ -44,26 +44,26 @@ export default function RootLayout({
                     name="description"
                     content="Figma UI kit designed to enhance the functionality of ChatGPT"
                 />
-                <meta name="product-name" content="Synapse - AI UI Kit" />
+                <meta name="product-name" content="Tesseract - LLMs for Ontology & Analytics" />
                 {/* Twitter Card data */}
                 <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@ui8" />
-                <meta name="twitter:title" content="Synapse - AI UI Kit" />
+                <meta name="twitter:title" content="Tesseract - LLMs for Ontology & Analytics" />
                 <meta
                     name="twitter:description"
-                    content="Figma UI kit designed to enhance the functionality of ChatGPT"
+                    content="Tesseract - LLMs for Ontology & Analytics"
                 />
-                <meta name="twitter:creator" content="@ui8" />
+                <meta name="twitter:creator" content="@tesseract_xyz" />
                 <meta
                     name="twitter:image"
                     content="%PUBLIC_URL%/twitter-card.png"
                 />
                 {/* Open Graph data for Facebook */}
-                <meta property="og:title" content="Synapse - AI UI Kit" />
+                <meta property="og:title" content="Tesseract - LLMs for Analytics" />
                 <meta property="og:type" content="Article" />
                 <meta
                     property="og:url"
-                    content="https://ui8.net/ui8/products/synapse-ai-ui-kit"
+                    content="https://tesseractxyz.com"
                 />
                 <meta
                     property="og:image"
@@ -71,12 +71,12 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:description"
-                    content="Figma UI kit designed to enhance the functionality of ChatGPT"
+                    content="Tesseract - LLMs for Ontology & Analytics"
                 />
-                <meta property="og:site_name" content="Synapse - AI UI Kit" />
+                <meta property="og:site_name" content="Tesseract - LLMs for Analytics" />
                 <meta property="fb:admins" content="132951670226590" />
                 {/* Open Graph data for LinkedIn */}
-                <meta property="og:title" content="Synapse - AI UI Kit" />
+                <meta property="og:title" content="Tesseract - LLMs for Analytics" />
                 <meta
                     property="og:url"
                     content="https://ui8.net/ui8/products/synapse-ai-ui-kit"
@@ -87,13 +87,13 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:description"
-                    content="Figma UI kit designed to enhance the functionality of ChatGPT"
+                    content=""
                 />
                 {/* Open Graph data for Pinterest */}
-                <meta property="og:title" content="Synapse - AI UI Kit" />
+                <meta property="og:title" content="Tesseract - LLMs for Ontology & Analytics" />
                 <meta
                     property="og:url"
-                    content="https://ui8.net/ui8/products/synapse-ai-ui-kit"
+                    content="https://tesseractxyz.com"
                 />
                 <meta
                     property="og:image"
@@ -101,7 +101,7 @@ export default function RootLayout({
                 />
                 <meta
                     property="og:description"
-                    content="Figma UI kit designed to enhance the functionality of ChatGPT"
+                    content="Tesseract - LLMs for Ontology & Analytics"
                 />
             </head>
             <body

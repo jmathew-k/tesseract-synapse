@@ -20,7 +20,7 @@ const Question = ({ content, image, files, children }: QuestionProps) => {
             <div className="relative shrink-0 w-8 h-8">
                 <Image
                     className="object-cover rounded-full opacity-100"
-                    src="/images/avatar.jpg"
+                    src="/images/ai-avatar.jpg"
                     fill
                     alt="Avatar"
                 />

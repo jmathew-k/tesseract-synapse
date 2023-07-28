@@ -40,17 +40,17 @@ export const chats = [
 export const chatList = [
     {
         id: "0",
-        title: "Website analytics",
+        title: "Crypto Analytics",
         image: "/images/chat-pic-1.svg",
     },
     {
         id: "1",
-        title: "Enhancing Communication",
+        title: "Database Analytics",
         image: "/images/chat-pic-2.svg",
     },
     {
         id: "2",
-        title: "New ideas",
+        title: "New Ideas",
         image: "/images/chat-pic-3.svg",
     },
 ];
