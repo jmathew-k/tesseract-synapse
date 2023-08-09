@@ -1,71 +1,71 @@
 import Link from "next/link";
 
 const items = [
-    {
-        title: "Home",
-        url: "/",
-    },
-    {
-        title: "New chat",
-        url: "/new-chat",
-    },
-    {
-        title: "Video generation",
-        url: "/video-generation",
-    },
-    {
-        title: "Photo editor",
-        url: "/photo-editor",
-    },
-    {
-        title: "Audio generator",
-        url: "/audio-generator",
-    },
-    {
-        title: "Education feedback",
-        url: "/education-feedback",
-    },
-    {
-        title: "Photo generator",
-        url: "/photo-generator",
-    },
-    {
-        title: "Code generator",
-        url: "/code-generator",
-    },
-    {
-        title: "Social",
-        url: "/social",
-    },
-    {
-        title: "Statistics",
-        url: "/statistics",
-    },
-    {
-        title: "Create chat bot",
-        url: "/chatbot/create",
-    },
-    {
-        title: "Chat bot",
-        url: "/chatbot",
-    },
-    {
-        title: "Pricing and payment",
-        url: "/pricing-and-payment",
-    },
-    {
-        title: "Sign In / Sign Up",
-        url: "/entry",
-    },
-    {
-        title: "Share page",
-        url: "/share",
-    },
-    {
-        title: "Settings",
-        url: "/settings",
-    },
-];
+	{
+		title: 'Home',
+		url: '/',
+	},
+	{
+		title: 'New chat',
+		url: '/new-chat',
+	},
+	{
+		title: 'Video generation',
+		url: '/video-generation',
+	},
+	{
+		title: 'Photo editor',
+		url: '/photo-editor',
+	},
+	{
+		title: 'Audio generator',
+		url: '/audio-generator',
+	},
+	{
+		title: 'Education feedback',
+		url: '/education-feedback',
+	},
+	{
+		title: 'Photo generator',
+		url: '/photo-generator',
+	},
+	{
+		title: 'Code generator',
+		url: '/code-generator',
+	},
+	{
+		title: 'Social',
+		url: '/social',
+	},
+	{
+		title: 'Statistics',
+		url: '/statistics',
+	},
+	{
+		title: 'New environment',
+		url: '/chatbot/create',
+	},
+	{
+		title: 'Chat bot',
+		url: '/chatbot',
+	},
+	{
+		title: 'Pricing and payment',
+		url: '/pricing-and-payment',
+	},
+	{
+		title: 'Sign In / Sign Up',
+		url: '/entry',
+	},
+	{
+		title: 'Share page',
+		url: '/share',
+	},
+	{
+		title: 'Settings',
+		url: '/settings',
+	},
+]
 
 const PageListPage = () => {
     return (

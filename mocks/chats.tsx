@@ -1,27 +1,27 @@
 export const chatActions = [
     {
         id: "0",
-        title: "Improve writing",
+        title: "PostgreSQL DB",
     },
     {
         id: "1",
-        title: "Translate",
+        title: "Dune API",
     },
     {
         id: "2",
-        title: "Change tone",
+        title: "Twitter API",
     },
     {
         id: "3",
-        title: "Fix spelling and grammar",
+        title: "Snowflake Data",
     },
     {
         id: "4",
-        title: "Improve writing",
+        title: "CoinMarketCap API",
     },
     {
         id: "5",
-        title: "Improve writing",
+        title: "bio-info.pdf",
     },
 ];
 
@@ -143,7 +143,7 @@ export const directions = [
 export const chatRequest = [
     {
         id: "0",
-        title: "Upload form in HTML, CSS and JS",
+        title: "Exploratory analysis for Ethereum transactions",
         image: "/images/icons/code-circle.svg",
         lastModified: "1 min ago",
         created: "5 mins ago",
@@ -151,7 +151,6 @@ export const chatRequest = [
         members: [
             "/images/avatar-1.jpg",
             "/images/avatar-2.jpg",
-            "/images/avatar-3.jpg",
             "/images/avatar-4.jpg",
         ],
         url: "/code-generator",
@@ -164,9 +163,7 @@ export const chatRequest = [
         created: "10 mins ago",
         color: "#735FFA",
         members: [
-            "/images/avatar-4.jpg",
-            "/images/avatar-1.jpg",
-            "/images/avatar-2.jpg",
+
             "/images/avatar-3.jpg",
         ],
         url: "/statistics",
@@ -181,7 +178,7 @@ export const chatRequest = [
         members: [
             "/images/avatar-3.jpg",
             "/images/avatar-1.jpg",
-            "/images/avatar-4.jpg",
+
             "/images/avatar-2.jpg",
         ],
         url: "/audio-generator",
@@ -194,8 +191,7 @@ export const chatRequest = [
         created: "1 hour ago",
         color: "#FFC224",
         members: [
-            "/images/avatar-1.jpg",
-            "/images/avatar-2.jpg",
+
             "/images/avatar-3.jpg",
             "/images/avatar-4.jpg",
         ],

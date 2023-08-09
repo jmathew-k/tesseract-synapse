@@ -15,7 +15,7 @@ const Logo = ({ className }: LogoProps) => {
         >
             <Image
                 className="opacity-100 hidden dark:block md:!hidden"
-                src="/images/logo-dark-theme-v2.svg"
+                src="/images/tess-logo-x.svg"
                 width={152}
                 height={48}
                 alt="Tesseract"
@@ -23,7 +23,7 @@ const Logo = ({ className }: LogoProps) => {
             />
             <Image
                 className="opacity-100 dark:hidden md:!hidden"
-                src="/images/logo-light-theme-v2.svg"
+                src="/images/tess-logo-l.svg"
                 width={152}
                 height={48}
                 alt="Tesseract"

@@ -25,12 +25,12 @@ const RightSidebar = ({ typeChat, visible, onClick }: RightSidebarProps) => {
 
     const typeTasks = [
         {
-            title: "Built-in",
+            title: "Custom",
             active: type === "built-in",
             onClick: () => setType("built-in"),
         },
         {
-            title: "Custom",
+            title: "Web Crawl",
             active: type === "custom",
             onClick: () => setType("custom"),
         },

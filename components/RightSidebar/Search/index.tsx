@@ -16,7 +16,7 @@ const Search = ({ value, onChange, onSubmit }: SearchProps) => (
             className="w-full h-16 pl-18 pr-5 bg-transparent text-base-2 text-n-7 placeholder:text-n-4 outline-none dark:text-n-1"
             type="text"
             name="search"
-            placeholder="Search action"
+            placeholder="Search dataset"
             value={value}
             onChange={onChange}
             required

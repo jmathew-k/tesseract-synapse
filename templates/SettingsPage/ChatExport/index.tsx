@@ -28,7 +28,7 @@ const ChatExport = ({}: ChatExportProps) => {
     const [checkboxes, setCheckboxes] = useState([
         {
             id: "0",
-            title: "ChatGPT 4",
+            title: "Cha",
             conversations: 256,
             image: "/images/logo-1.svg",
             color: "#735FFA",
@@ -76,7 +76,7 @@ const ChatExport = ({}: ChatExportProps) => {
         },
         {
             id: "6",
-            title: "ChatGPT 4.1",
+            title: "qaz1",
             conversations: 1024,
             image: "/images/logo-1.svg",
             color: "#735FFA",

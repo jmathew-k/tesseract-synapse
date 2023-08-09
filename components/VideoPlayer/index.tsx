@@ -15,7 +15,7 @@ const VideoPlayer = ({ image, logoHide }: VideoPlayerProps) => (
                 href="/"
             >
                 <Image
-                    src="/images/logo-light-theme.svg"
+                    src="/images/tess-logo-l.svg"
                     width={136}
                     height={42}
                     alt=""

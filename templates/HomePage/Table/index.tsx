@@ -11,16 +11,16 @@ const Table = ({ items }: TableProps) => (
     <div className="border border-n-3 rounded-xl dark:border-n-5">
         <div className="flex px-8 py-5 border-b border-n-3 xl:px-4 xl:py-3 dark:border-n-5">
             <div className="grow">
-                <Sorting title="Title" />
+                <Sorting title="All instances" />
             </div>
             <div className="shrink-0 w-[8rem] mr-4 lg:mr-2 md:hidden">
-                <Sorting title="Last modified" />
+                <Sorting title="Last interacted" />
             </div>
             <div className="shrink-0 w-[8rem] mr-4 lg:hidden">
                 <Sorting title="Created" />
             </div>
             <div className="shrink-0 w-[5.75rem]">
-                <Sorting title="Members" />
+                <Sorting title="Users" />
             </div>
         </div>
         <div className="p-4 xl:px-2">
