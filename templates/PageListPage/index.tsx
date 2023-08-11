@@ -10,11 +10,11 @@ const items = [
 		url: '/new-chat',
 	},
 	{
-		title: 'Video generation',
+		title: 'EDA for Ethereum transactions',
 		url: '/video-generation',
 	},
 	{
-		title: 'Photo editor',
+		title: 'Churn calculation on Salesforce CRM',
 		url: '/photo-editor',
 	},
 	{

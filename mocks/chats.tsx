@@ -28,7 +28,7 @@ export const chatActions = [
 export const directions = [
     {
         id: "0",
-        title: "Photo generator",
+        title: "Exploratory analysis for Ethereum transactions",
         image: "/images/photo.svg",
         color: "#735FFA",
         type: "super",
@@ -36,7 +36,7 @@ export const directions = [
     },
     {
         id: "1",
-        title: " Photo editor",
+        title: "Churn Prediction for Salesforce CRM",
         image: "/images/photo.svg",
         color: "#BE87FF",
         type: "super",
@@ -44,7 +44,7 @@ export const directions = [
     },
     {
         id: "2",
-        title: "Code generator",
+        title: "Legal Assistant for GDPR",
         image: "/images/code.svg",
         color: "#1F82FF",
         type: "super",
@@ -52,7 +52,7 @@ export const directions = [
     },
     {
         id: "3",
-        title: "Education feedback",
+        title: "Bitcoin historical data analysis",
         image: "/images/trophy.svg",
         color: "#7C878E",
         type: "super",
@@ -60,15 +60,15 @@ export const directions = [
     },
     {
         id: "4",
-        title: "Video generator",
+        title: "Exploratory analysis for Ethereum transaction",
         image: "/images/video.svg",
         color: "#4BAB71",
         type: "high",
-        url: "/video-generation",
+        url: "/statistics",
     },
     {
         id: "5",
-        title: "Photo generator",
+        title: "Churn Prediction for Salesforce CRM",
         image: "/images/photo.svg",
         color: "#735FFA",
         type: "high",
@@ -76,7 +76,7 @@ export const directions = [
     },
     {
         id: "6",
-        title: " Photo editor",
+        title: "Legal Assistant for GDPR",
         image: "/images/photo.svg",
         color: "#BE87FF",
         type: "high",
@@ -84,7 +84,7 @@ export const directions = [
     },
     {
         id: "7",
-        title: "Code generator",
+        title: "Bitcoin historical data analysis",
         image: "/images/code.svg",
         color: "#1F82FF",
         type: "high",
@@ -92,7 +92,7 @@ export const directions = [
     },
     {
         id: "8",
-        title: "Education feedback",
+        title: "Exploratory analysis for Ethereum transaction",
         image: "/images/trophy.svg",
         color: "#7C878E",
         type: "high",
@@ -100,7 +100,7 @@ export const directions = [
     },
     {
         id: "9",
-        title: "Photo generator",
+        title: "Exploratory analysis for Ethereum transaction",
         image: "/images/photo.svg",
         color: "#735FFA",
         type: "medium",
@@ -108,7 +108,7 @@ export const directions = [
     },
     {
         id: "10",
-        title: "Video generator",
+        title: "Bitcoin historical data analysis",
         image: "/images/video.svg",
         color: "#4BAB71",
         type: "medium",
@@ -116,7 +116,7 @@ export const directions = [
     },
     {
         id: "11",
-        title: "Education feedback",
+        title: "Churn Prediction for Salesforce CRM",
         image: "/images/trophy.svg",
         color: "#7C878E",
         type: "medium",
@@ -124,7 +124,7 @@ export const directions = [
     },
     {
         id: "12",
-        title: "Code generator",
+        title: "Exploratory analysis for Ethereum transaction",
         image: "/images/code.svg",
         color: "#1F82FF",
         type: "low",
@@ -132,7 +132,7 @@ export const directions = [
     },
     {
         id: "13",
-        title: "Education feedback",
+        title: "Churn Prediction for Salesforce CRM",
         image: "/images/trophy.svg",
         color: "#7C878E",
         type: "low",
@@ -157,7 +157,7 @@ export const chatRequest = [
     },
     {
         id: "1",
-        title: "How do I create a website",
+        title: "Measure churn from Salesforce API",
         image: "/images/icons/site.svg",
         lastModified: "3 min ago",
         created: "10 mins ago",
@@ -170,7 +170,7 @@ export const chatRequest = [
     },
     {
         id: "2",
-        title: "Can you explain the concept of artificial intelligence?",
+        title: "Legal Assistant for GDPR",
         image: "/images/icons/message-chat-circle.svg",
         lastModified: "10 min ago",
         created: "35 mins ago",
@@ -185,7 +185,7 @@ export const chatRequest = [
     },
     {
         id: "3",
-        title: "Marketing video generation",
+        title: "Bitcoin historical data",
         image: "/images/icons/video-recorder.svg",
         lastModified: "45 min ago",
         created: "1 hour ago",
@@ -199,7 +199,7 @@ export const chatRequest = [
     },
     {
         id: "4",
-        title: "Upload form in HTML, CSS and JS",
+        title: "Google Playstore metrics",
         image: "/images/icons/code-snippet.svg",
         lastModified: "1 hour ago",
         created: "5 hour ago",
@@ -217,49 +217,49 @@ export const chatRequest = [
 export const historyChat = [
     {
         id: "0",
-        title: "Business man talking avatar",
+        title: "Prediction on Semiconductor demand",
         color: "#BE87FF",
         url: "/video-generation",
     },
     {
         id: "1",
-        title: "Retouch photo",
+        title: "Analyze market for Solar Panels",
         color: "#FF66C2",
         url: "/photo-editor",
     },
     {
         id: "2",
-        title: "Text-to-speech voice",
+        title: "Sentiment on #Crypto from Twitter API",
         color: "#1F82FF",
         url: "/audio-generator",
     },
     {
         id: "3",
-        title: "Education feedback",
+        title: "Customer LTV from Snowflake Data",
         color: "#FF6C3E",
         url: "/education-feedback",
     },
     {
         id: "4",
-        title: "3D Hi Fi Retro Futuristic Character",
+        title: "Churn prediction for Salesforce CRM",
         color: "#735FFA",
         url: "/photo-generator",
     },
     {
         id: "5",
-        title: "Python function",
+        title: "Legal Assistant for GDPR",
         color: "#4BAB71",
         url: "/code-generator",
     },
     {
         id: "6",
-        title: "Social media post",
+        title: "Bitcoin historical data analysis",
         color: "#FF6C3E",
         url: "/social",
     },
     {
         id: "7",
-        title: "Statistics Dribbble portfolio",
+        title: "Exploratory analysis for Ethereum transactions",
         color: "#FF66C2",
         url: "/statistics",
     },
